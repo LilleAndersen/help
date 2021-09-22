@@ -7,6 +7,7 @@
         2.1 Header
     3 Page specific styling
         3.1 Main page
+            3.1.1 People cards
         3.2 FAQ page
         3.3 Guides page
     4 Individual elements
@@ -20,22 +21,24 @@ body {
   font-family: "Nunito Sans", sans-serif;
 }
 
-#header {
+.header {
   display: flex;
   justify-content: space-around;
   background: #161b33;
   padding: 1rem;
   align-items: center;
 }
-#header a {
+.header h1 {
+  font-weight: 900;
+}
+.header a {
   text-align: center;
   justify-content: center;
   color: #f7eade;
   text-decoration: none;
   font-size: 22px;
-  transition: ease 500ms;
 }
-#header a:hover {
+.header a:hover {
   text-decoration: underline;
 }
 
@@ -43,14 +46,44 @@ body {
   align-content: flex-start;
 }
 
+.side-bar {
+  background: #474973;
+}
+
 #content {
-  margin: 5rem auto;
-  width: 60ch;
   text-align: center;
+}
+#content > * {
+  margin: 0 auto;
+  max-width: 60ch;
+}
+
+.item-flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-bottom: 1em;
+  width: 15em;
+  text-align: center;
+  border-radius: 5%;
+  background: #474973;
+  margin: 2em;
+}
+
+.person-img {
+  width: 15em;
+  padding-bottom: 1em;
+  user-select: none;
+  border-radius: 5%;
+}
+
+#github-link {
+  text-decoration: underline;
+  color: #f7eade;
 }
 
 hr {
-  margin: 2rem auto;
+  margin: 2rem auto !important;
   width: 20ch;
   border: none;
   border-top: 1px solid #f7eade;

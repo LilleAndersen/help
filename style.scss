@@ -7,6 +7,7 @@
         2.1 Header
     3 Page specific styling
         3.1 Main page
+            3.1.1 People cards
         3.2 FAQ page
         3.3 Guides page
     4 Individual elements
@@ -41,13 +42,18 @@ body
 //====================================
 
 // 2.1 Header
-#header
+.header
 {
     display: flex;
     justify-content: space-around;
     background: $accent-dark;
     padding: 1rem;
     align-items: center;
+
+    h1
+    {
+        font-weight: 900;
+    }
 
     a
     {
@@ -56,7 +62,7 @@ body
         color: $light;
         text-decoration: none;
         font-size: 22px;
-        transition: ease 500ms;
+        //transition: ease 500ms; TODO: Fix this when we get the underline
 
         &:hover
         {
@@ -73,6 +79,13 @@ body
     align-content: flex-start;
 }
 
+// 2.2 Index Bar
+.side-bar
+{
+    background: $accent;
+}
+
+
 //====================================
 // 3 Page specific styling
 //====================================
@@ -80,9 +93,43 @@ body
 // 3.1 Main page
 #content
 {
-    margin: 5rem auto;
-    width: 60ch;
     text-align: center;
+
+    > *
+    {
+        margin: 0 auto;
+        max-width: 60ch;
+    }
+}
+
+// 3.1.1 People cards
+$card-width: 15em;
+
+.item-flex
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 1em;
+    width: $card-width;
+    text-align: center;
+    border-radius: 5%;
+    background: $accent;
+    margin: 2em;
+}
+
+.person-img
+{
+    width: $card-width;
+    padding-bottom: 1em;
+    user-select: none;
+    border-radius: 5%;
+}
+
+#github-link
+{
+    text-decoration: underline;
+    color: $light;
 }
 
 //====================================
@@ -92,7 +139,7 @@ body
 // 4.1 Dividers
 hr
 {
-    margin: 2rem auto;
+    margin: 2rem auto !important;
     width: 20ch;
     border: none;
     border-top: 1px solid $light;
