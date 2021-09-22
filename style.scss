@@ -7,11 +7,12 @@
         2.1 Header
     3 Page specific styling
         3.1 Main page
-            3.1.1 People cards
+            3.1.1 Technician cards
         3.2 FAQ page
         3.3 Guides page
     4 Individual elements
         4.1 Dividers
+        4.2 Index bar
  */
 
 //====================================
@@ -73,18 +74,10 @@ body
     }
 }
 
-
 #left
 {
     align-content: flex-start;
 }
-
-// 2.2 Index Bar
-.side-bar
-{
-    background: $accent;
-}
-
 
 //====================================
 // 3 Page specific styling
@@ -93,6 +86,7 @@ body
 // 3.1 Main page
 #content
 {
+    padding: 5rem 0;
     text-align: center;
 
     > *
@@ -102,34 +96,47 @@ body
     }
 }
 
-// 3.1.1 People cards
+// 3.1.1 Technician cards
 $card-width: 15em;
 
-.item-flex
+#our-technicians
 {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    padding-bottom: 1em;
-    width: $card-width;
-    text-align: center;
-    border-radius: 5%;
-    background: $accent;
-    margin: 2em;
-}
+    max-width: 80rem;
 
-.person-img
-{
-    width: $card-width;
-    padding-bottom: 1em;
-    user-select: none;
-    border-radius: 5%;
-}
+    #technician-cards
+    {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
 
-#github-link
-{
-    text-decoration: underline;
-    color: $light;
+        .item-flex
+        {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            padding-bottom: 1em;
+            width: $card-width;
+            text-align: center;
+            border-radius: 5%;
+            background: $accent;
+            margin: 2em;
+        }
+
+        .person-img
+        {
+            width: $card-width;
+            aspect-ratio: 1;
+            padding-bottom: 1em;
+            user-select: none;
+            border-radius: 5%;
+        }
+
+        #github-link
+        {
+            text-decoration: underline;
+            color: $light;
+        }
+    }
 }
 
 //====================================
@@ -143,4 +150,17 @@ hr
     width: 20ch;
     border: none;
     border-top: 1px solid $light;
+}
+
+// 4.2 Sidebar
+#side-bar
+{
+    display: flex;
+    align-self: flex-start;
+    background: $accent;
+    position: absolute;
+    height: 100vh;
+    width: 10vw;
+
+
 }

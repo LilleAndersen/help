@@ -16,15 +16,15 @@
   {
     "id" : 2,
     "name": "Samuel",
-    "purpose" : "Javascript man",
+    "purpose" : "JavaScript man",
     "image" : "/assets/images/samuel.jpg",
     "github": "https://github.com/soni801/"
   },
   {
     "id" : 3,
     "name": "Tobias",
-    "purpose" : "Discord ripoff man",
+    "purpose" : "Hentai superstar",
     "image" : "/assets/images/tobias.jpg",
-    "github": "https://github.com/littleandersen/"
+    "github": "https://github.com/lilleandersen/"
   }
 ]
