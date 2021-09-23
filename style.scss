@@ -58,18 +58,30 @@ body
 
     a
     {
+        position: relative;
         text-align: center;
         justify-content: center;
         color: $light;
         text-decoration: none;
         font-size: 22px;
-        //transition: ease 500ms; TODO: Fix this when we get the underline
 
-        &:hover
+        &:not(.no-line)::after // Underline styling
         {
-            // TODO samuel fix our underline transition
-            //      transform: scale(1.1);
-            text-decoration: underline;
+            position: absolute;
+            content: "";
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            height: 3px;
+            background: $accent;
+            border-radius: 1rem;
+            transform: scaleX(0);
+            transition: 200ms ease;
+        }
+
+        &:hover:not(.no-line)::after
+        {
+            transform: unset; // Set underline visible on hover
         }
     }
 }
