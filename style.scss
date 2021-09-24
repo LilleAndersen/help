@@ -9,6 +9,7 @@
         3.1 Main page
             3.1.1 Technician cards
         3.2 FAQ page
+            3.2.1 Questions
         3.3 Guides page
     4 Individual elements
         4.1 Dividers
@@ -147,6 +148,30 @@ $card-width: 15em;
         {
             text-decoration: underline;
             color: $light;
+        }
+    }
+}
+
+// 3.2.1 Questions
+#questions
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+    h3
+    {
+        background: $accent;
+        padding: 1rem;
+        border-radius: .5rem;
+
+        &::before
+        {
+            content: "Q:";
+            font-weight: 100;
+            color: $accent-light;
+            font-size: 2rem;
         }
     }
 }

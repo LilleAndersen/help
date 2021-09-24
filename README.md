@@ -19,3 +19,6 @@ Source code for TempleOS Help Desk
 - [Faq and user guides](https://help.yessness.com/)
 
 ---
+
+### Resources
+
