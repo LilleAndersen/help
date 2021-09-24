@@ -20,6 +20,7 @@ fetch("/assets/json/faq.json")
                 e.style.opacity = "1";
 
                 const next = e.nextElementSibling;
+                next.style.width = `${e.offsetWidth}px`;
                 next.style.marginBottom = `-${next.offsetHeight}px`;
 
                 e.addEventListener("click", function ()

@@ -1,11 +1,11 @@
 [
   {
-    "question": "How do I get GitHub Education?",
-    "answer" : "using your faceaasasssssssss sssssssss sssssss ssssss... "
+    "question": "What is GitHub Education and how do I get it?",
+    "answer" : "GitHub Education is a program meant for students that gives you various benefits like GitHub Pro, free domains, various software licences and more. Apply at education.github.com."
   },
   {
     "question": "Where should I look for help if I encounter a problem?",
-    "answer" : "in your face"
+    "answer" : "If you encounter a problem you can contact us by clicking the \"Contact Us\" button or by going to https://templeos.on.spiceworks.com/portal/. Alternatively you can look at the references to try and figure it out for yourself."
   },
   {
     "question": "What do i put in my head element?",
@@ -13,7 +13,7 @@
   },
   {
     "question": "How do I link a file to my html?",
-    "answer" : "using your face"
+    "answer" : "If you want to link a file to your html you should either use the head or the bottom of the page depending on the filetype. For CSS you place this: \"<link rel=\"stylesheet\" type=\"text/css\" href=\"pathtofile\">\", in your head tag and change the href to the .css file path. For JavaScript you generally place it at the bottom of the page like this: \"<script src=\"pathtofile\"></script>\". Make sure you place the JS src inside the body tag. Remember: webpages will always load the first JS file first, so if you have any libraries or code which depends on other files, make sure you place them in the correct order."
   },
   {
     "question": "Where can I find design inspiration?",
@@ -21,14 +21,14 @@
   },
   {
     "question": "Can I copy code from the internet?",
-    "answer" : "your face can"
+    "answer" : "Short answer: yes you can. Before you copy code you should understand how the code works before you use it. You should also give proper credit."
   },
   {
     "question": "How do I make a link go to a section on the same page?",
-    "answer" : "just do your face"
+    "answer" : "You can make a link that links to a section on the page by linking to the element that it uses."
   },
   {
     "question": "Which browser should I use?",
-    "answer" : "your face"
+    "answer" : "That is up to you, but Firefox is one of the more secure browsers that you can use. We recommend that you try to not use Chrome because of its long history of collecting info about the user and using more ram then it should."
   }
 ]
