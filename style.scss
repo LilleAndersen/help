@@ -168,8 +168,12 @@ $card-width: 15em;
         background: $accent;
         padding: 1rem;
         margin: 0;
+        opacity: 0;
         border-radius: .5rem;
         box-shadow: $dark 0 0 2rem;
+        user-select: none;
+        cursor: pointer;
+        transition: 300ms ease;
 
         &::before
         {
@@ -182,12 +186,17 @@ $card-width: 15em;
 
     p
     {
+        position: relative;
         background: $accent-dark;
         padding: 1rem;
         margin: 0 auto;
         width: max-content; // Makes the background not extend more than the text
         max-width: 80%;
+        z-index: -1;
+        opacity: 0;
         border-radius: 0 0 1rem 1rem;
+        transform: translateY(-100%);
+        transition: 300ms ease;
 
         &::before
         {
@@ -199,16 +208,26 @@ $card-width: 15em;
     }
 }
 
-// 3.3.1 Side bar
 #guides
 {
     display: flex;
 
-    #side-bar
+    // 3.3.1 Side bar
+    .side-bar
     {
+        display: flex;
+        flex-direction: column;
         background: $accent;
-        width: 15rem;
+        width: 8rem;
+        padding: 2rem;
 
+
+        .side-bar-content
+        {
+            color: $light;
+            text-decoration: none;
+            display: none;
+        }
     }
 }
 
