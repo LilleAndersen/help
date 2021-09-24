@@ -1,34 +1,30 @@
 <!DOCTYPE html>
 
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <link rel="stylesheet" type="text/css" href="/style.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Guides | TempleOS Help Desk</title>
-</head>
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" href="/style.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Guides | TempleOS Help Desk</title>
+    </head>
 
-<body >
-    <!-- Header -->
-    <section class="header">
-        <a class="no-line" href="/"><h1>TempleOS Help Desk</h1></a>
-        <a href="#">Guides</a>
-        <a href="../faq">FAQ</a>
-        <a href="https://templeos.on.spiceworks.com/portal/" target="_blank">Contact us</a>
-    </section>
+    <body>
+        <!-- Header -->
+        <section id="header"></section>
 
-    <section>
-        <div id="side-bar">
-            <a href="#" onclick="dropDow(this)">test</a>
-
+        <div id="guides">
+            <div id="side-bar">
+                <a href="#" onclick="toggleDetails(this)">test</a>
+                <div>
+                    <a href="">test</a>
+                </div>
+            </div>
+            <section id="guide-content"></section>
         </div>
-        <div>
 
-        </div>
-    </section>
-
-    <!-- Scripts -->
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-    <script src="/js/guides.js"></script>
-</body>
+        <!-- Scripts -->
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+        <script src="/js/main.js"></script>
+        <script src="/js/guides.js"></script>
+    </body>
 </html>

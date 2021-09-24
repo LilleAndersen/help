@@ -11,9 +11,9 @@
         3.2 FAQ page
             3.2.1 Questions
         3.3 Guides page
+            3.3.1 Side bar
     4 Individual elements
         4.1 Dividers
-        4.2 Index bar
  */
 
 //====================================
@@ -44,7 +44,7 @@ body
 //====================================
 
 // 2.1 Header
-.header
+#header
 {
     display: flex;
     justify-content: space-around;
@@ -158,21 +158,57 @@ $card-width: 15em;
     display: flex;
     flex-direction: column;
     align-items: center;
+    gap: 3rem;
+    padding: 5rem;
     text-align: center;
 
     h3
     {
+        position: relative; // Relative makes the shadow on top of the next element
         background: $accent;
         padding: 1rem;
+        margin: 0;
         border-radius: .5rem;
+        box-shadow: $dark 0 0 2rem;
 
         &::before
         {
-            content: "Q:";
+            content: "Q: ";
             font-weight: 100;
             color: $accent-light;
-            font-size: 2rem;
+            font-size: 1.5rem;
         }
+    }
+
+    p
+    {
+        background: $accent-dark;
+        padding: 1rem;
+        margin: 0 auto;
+        width: max-content; // Makes the background not extend more than the text
+        max-width: 80%;
+        border-radius: 0 0 1rem 1rem;
+
+        &::before
+        {
+            content: "A: ";
+            font-weight: 100;
+            color: $accent;
+            font-size: 1.5rem;
+        }
+    }
+}
+
+// 3.3.1 Side bar
+#guides
+{
+    display: flex;
+
+    #side-bar
+    {
+        background: $accent;
+        width: 15rem;
+
     }
 }
 
@@ -187,17 +223,4 @@ hr
     width: 20ch;
     border: none;
     border-top: 1px solid $light;
-}
-
-// 4.2 Sidebar
-#side-bar
-{
-    display: flex;
-    align-self: flex-start;
-    background: $accent;
-    position: absolute;
-    height: 100vh;
-    width: 10vw;
-
-
 }
