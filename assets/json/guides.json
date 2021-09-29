@@ -1,62 +1,62 @@
 [
   {
     "question": "How do I get GitHub Education?",
-    "answer" : "using your faceaasasssssssss sssssssss sssssss ssssss... "
+    "answer" : "If you go to education.github.com/pack you can get your Github Education for free!"
   },
   {
     "question": "Where should I look for help if I encounter a problem?",
-    "answer" : "in your face"
+    "answer" : "You can always look up the documentation, but if that isn't to your preference you can ask us at spiceworks!"
   },
   {
     "question": "What do i put in my head element?",
-    "answer" : "a basic head includes your face"
+    "answer" : "In the head element, you can put your logo or a menu bar!"
   },
   {
     "question": "How do I link a file to my html?",
-    "answer" : "using your face"
+    "answer" : "If you want to link a file, you use the href property. You give it a path, and it gets the file!"
   },
   {
     "question": "Where can I find design inspiration?",
-    "answer" : "inside your face"
+    "answer" : "If you need inspiration, you can go to either our site or search google for 'website templates'"
   },
   {
     "question": "Can I copy code from the internet?",
-    "answer" : "your face can"
+    "answer" : "If the code has copyright, you sadly can't. But if you're given conditions for use, you can!"
   },
   {
     "question": "How do I make a link go to a section on the same page?",
-    "answer" : "just do your face"
+    "answer" : "If you put #body after the link, it will take you to the body. In the same way you can go to different divs if you use their class"
   },
   {
-    "question": "How do I make a link go to a section on the same page?",
-    "answer" : "just do your face"
+    "question": "How do I link to a javascript file?",
+    "answer" : "If you use the script tag, you can do the href property to link!"
   },
   {
-    "question": "How do I make a link go to a section on the same page?",
-    "answer" : "just do your face"
+    "question": "How do I link images?",
+    "answer" : "In the img tag, you can use the href property to link!"
   },
   {
-    "question": "How do I make a link go to a section on the same page?",
-    "answer" : "just do your face"
+    "question": "How do i host my website?",
+    "answer" : "If you want to host your site, you can use github pages! Alternatively you can setup your own webserver, but remember that the site will only be available when the host is on!"
   },
   {
-    "question": "How do I make a link go to a section on the same page?",
-    "answer" : "just do your face"
+    "question": "How do I get a custom domain?",
+    "answer" : "You can either by a domain or get one for free. And if you use Github Pages you can go into your github pages to change the hostname!"
   },
   {
-    "question": "How do I make a link go to a section on the same page?",
-    "answer" : "just do your face"
+    "question": "Can i ask to be included on the Yessness site?",
+    "answer" : "We're unsure as of now, but we'll update it when we've decided"
   },
   {
-    "question": "How do I make a link go to a section on the same page?",
-    "answer" : "just do your face"
+    "question": "How do i link to a youtube video?",
+    "answer" : "If you watch a youtube video, you can use the embed button to get html code for your website!"
   },
   {
-    "question": "How do I make a link go to a section on the same page?",
-    "answer" : "just do your face"
+    "question": "How can i change my website depending on the width?",
+    "answer" : "If you use media queries, you can change your css depending on different factors. An example is the width of your device."
   },
   {
-    "question": "How do I make a link go to a section on the same page?",
-    "answer" : "just do your face"
+    "question": "How can i get a icon on my website tab?",
+    "answer" : "In the meta, you can use <link rel='icon' href=''> to link to a logo image!"
   }
 ]
