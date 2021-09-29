@@ -9,21 +9,21 @@
     {
         "id" : 1,
         "name": "Andreas",
-        "purpose" : "Minecraft player",
+        "purpose" : "Content manager",
         "image" : "/assets/images/andreas.jpg",
         "github": "https://github.com/mrcat77/"
     },
     {
         "id" : 2,
         "name": "Samuel",
-        "purpose" : "JavaScript",
+        "purpose" : "Lead Programmer",
         "image" : "/assets/images/samuel.jpg",
         "github": "https://github.com/soni801/"
     },
     {
         "id" : 3,
         "name": "Tobias",
-        "purpose" : "Styling",
+        "purpose" : "Senior Programmer",
         "image" : "/assets/images/tobias.jpg",
         "github": "https://github.com/lilleandersen/"
     }

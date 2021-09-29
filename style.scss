@@ -12,6 +12,7 @@
             3.2.1 Questions
         3.3 Guides page
             3.3.1 Side bar
+            3.3.2 Guide content
     4 Individual elements
         4.1 Dividers
  */
@@ -108,6 +109,12 @@ body
     {
         margin: 0 auto;
         max-width: 60ch;
+    }
+
+    // TODO: Organise this type of link styling better
+    p > a
+    {
+        color: $accent;
     }
 }
 
@@ -207,6 +214,11 @@ body
             font-size: 1.5rem;
         }
     }
+
+    a
+    {
+        color: $accent;
+    }
 }
 
 #guides
@@ -214,12 +226,13 @@ body
     display: flex;
 
     // 3.3.1 Side bar
-    .side-bar
+    #side-bar
     {
         display: flex;
         flex-direction: column;
-        background: $accent;
-        width: 8rem;
+        gap: 1rem;
+        background: $accent-dark;
+        border-top: 3px solid $accent;
         padding: 2rem;
 
         .hide
@@ -227,25 +240,35 @@ body
             display: none;
         }
 
-        h2
-        {
-            text-decoration: underline;
-            margin: 0;
-            cursor: pointer;
-            width: max-content;
-        }
-
-        .side-bar-content
+        a
         {
             text-decoration: none;
             color: $light;
-            margin: 0 1rem 0;
-            font-size: 1rem;
+            font-weight: 700;
 
-            &:before
+            &:hover
             {
-                content: "- ";
+                text-decoration: underline;
             }
+
+            &:active
+            {
+                color: $accent-light;
+            }
+        }
+    }
+
+    // 3.3.2 Guide content
+    #guide-content
+    {
+        max-width: 70ch;
+        margin: 0 auto;
+
+        h1
+        {
+            font-size: 3rem;
+            border-bottom: 2px solid $accent;
+            width: max-content;
         }
     }
 }
@@ -264,6 +287,11 @@ body
     {
     font-size: 1.5rem;
     margin-bottom: 0.5rem;
+    }
+
+    a
+    {
+        color: $accent;
     }
 }
 

@@ -1,62 +1,74 @@
 [
   {
-    "question": "How do I get GitHub Education?",
-    "answer" : "If you go to education.github.com/pack you can get your Github Education for free!"
+    "id": "github-desktop",
+    "category": "Utilities",
+    "title": "Guide to GitHub Desktop",
+    "url": "path/to/html"
   },
   {
-    "question": "Where should I look for help if I encounter a problem?",
-    "answer" : "You can always look up the documentation, but if that isn't to your preference you can ask us at spiceworks!"
+    "id": "sass",
+    "category": "Languages",
+    "title": "Intro to SASS & SCSS",
+    "url": "path/to/html"
   },
   {
-    "question": "What do i put in my head element?",
-    "answer" : "In the head element, you can put your logo or a menu bar!"
+    "id": "intellij",
+    "category": "Utilities",
+    "title": "Download and use the IntelliJ IDE",
+    "url": "path/to/html"
   },
   {
-    "question": "How do I link a file to my html?",
-    "answer" : "If you want to link a file, you use the href property. You give it a path, and it gets the file!"
+    "id": "center-elements",
+    "category": "Styling",
+    "title": "Different ways of centering elements",
+    "url": "path/to/html"
   },
   {
-    "question": "Where can I find design inspiration?",
-    "answer" : "If you need inspiration, you can go to either our site or search google for 'website templates'"
+    "id": "json",
+    "category": "Languages",
+    "title": "Intro to JSON",
+    "url": "path/to/html"
   },
   {
-    "question": "Can I copy code from the internet?",
-    "answer" : "If the code has copyright, you sadly can't. But if you're given conditions for use, you can!"
+    "id": "link-preview",
+    "category": "HTML",
+    "title": "Create a link preview for your website",
+    "url": "path/to/html"
   },
   {
-    "question": "How do I make a link go to a section on the same page?",
-    "answer" : "If you put #body after the link, it will take you to the body. In the same way you can go to different divs if you use their class"
+    "id": "favicon",
+    "category": "HTML",
+    "title": "Create a tab icon for your website (favicon)",
+    "url": "path/to/html"
   },
   {
-    "question": "How do I link to a javascript file?",
-    "answer" : "If you use the script tag, you can do the href property to link!"
+    "id": "devtools",
+    "category": "Utilities",
+    "title": "Using DevTools efficiently",
+    "url": "path/to/html"
   },
   {
-    "question": "How do I link images?",
-    "answer" : "In the img tag, you can use the href property to link!"
+    "id": "media-queries",
+    "category": "Styling",
+    "title": "Adding mobile support",
+    "url": "path/to/html"
   },
   {
-    "question": "How do i host my website?",
-    "answer" : "If you want to host your site, you can use github pages! Alternatively you can setup your own webserver, but remember that the site will only be available when the host is on!"
+    "id": "domain",
+    "category": "Hosting",
+    "title": "Setting a custom domain",
+    "url": "path/to/html"
   },
   {
-    "question": "How do I get a custom domain?",
-    "answer" : "You can either by a domain or get one for free. And if you use Github Pages you can go into your github pages to change the hostname!"
+    "id": "remove-html",
+    "category": "HTML",
+    "title": "Remove the .html extension in your URL",
+    "url": "path/to/html"
   },
   {
-    "question": "Can i ask to be included on the Yessness site?",
-    "answer" : "We're unsure as of now, but we'll update it when we've decided"
-  },
-  {
-    "question": "How do i link to a youtube video?",
-    "answer" : "If you watch a youtube video, you can use the embed button to get html code for your website!"
-  },
-  {
-    "question": "How can i change my website depending on the width?",
-    "answer" : "If you use media queries, you can change your css depending on different factors. An example is the width of your device."
-  },
-  {
-    "question": "How can i get a icon on my website tab?",
-    "answer" : "In the meta, you can use <link rel='icon' href=''> to link to a logo image!"
+    "id": "hosting",
+    "category": "Hosting",
+    "title": "Hosting your website",
+    "url": "path/to/html"
   }
 ]

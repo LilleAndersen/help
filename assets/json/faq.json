@@ -30,5 +30,13 @@
     {
         "question": "Which browser should I use?",
         "answer" : "That is up to you, but Firefox is know to be the most secure mainstream browser. We don't recommend Google Chrome because of its long history of collecting user data and bad performance. There are many other browsers that use the same platform as Chrome (Chromium), such as Microsoft Edge or Brave browser."
+    },
+    {
+        "question": "Can I be included on the Yessness website?",
+        "answer" : "We're unsure as of now, but we'll update this answer when a decision has been made."
+    },
+    {
+        "question": "How do I link to a YouTube video?",
+        "answer" : "On the YouTube website, under the video, press the share button. You will see an embed option. Copy the code it gives you and put in on your website."
     }
 ]
