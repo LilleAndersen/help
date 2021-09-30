@@ -38,5 +38,9 @@
     {
         "question": "How do I link to a YouTube video?",
         "answer" : "On the YouTube website, under the video, press the share button. You will see an embed option. Copy the code it gives you and put in on your website."
+    },
+    {
+        "question": "What software should I use for coding?",
+        "answer": "There are many pieces of software that can be used for coding. We would recommend a more advanced development suite, called an integrated development environment (IDE). An example of this is IntelliJ IDEA made by JetBrains. We would also recommend having a more lightweight program for quick edits, which IntelliJ can also do. For more information, check our guide on how to install IntelliJ."
     }
 ]
