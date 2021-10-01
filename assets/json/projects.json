@@ -4,13 +4,20 @@
     "title":"TempleOS bot",
     "desc": "We are making a discord bot for the helpdesk!",
     "image":"/assets/images/templeos.png",
-    "link":"github/link/here"
+    "link":"https://github.com/soni801/temple-bot"
   },
-  
+
   {
-    "title":"TempleOS bot",
-    "desc": "We are making a discord bot for the helpdesk!",
-    "image":"/assets/images/templeos.png",
-    "link":"github/link/here"
+    "title":"This site",
+    "desc": "We are making a helpdesk site!",
+    "image":"/assets/favicon/favicon.png",
+    "link":"https://github.com/LilleAndersen/help"
+  },
+
+  {
+    "title":"Yessness",
+    "desc": "We are meaking a cool site where all of the people in class have their sites",
+    "image":"/assets/images/yessnesslogo.png",
+    "link":"https://github.com/soni801/yessness"
   }
 ]

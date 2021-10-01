@@ -12,7 +12,7 @@ fetch("/assets/json/technicians.json")
                     <small>${person.purpose}</small>
                 </div>
             `;
-            console.log(`${person.name}, ${person.purpose}`);
+            console.log("Person " + `${person.name}, ${person.purpose}`);
         }
     }
 )
@@ -32,7 +32,7 @@ fetch("/assets/json/projects.json")
                     <a id="link" href="${project.link}" target="_blank">GitHub</a>
                 </div>
             `;
-                console.log(`${project.name}` + "loaded");
+                console.log("Project " + `${project.title}` + " loaded");
             }
         }
     )
