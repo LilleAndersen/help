@@ -7,7 +7,9 @@
         2.1 Header
     3 Page specific styling
         3.1 Main page
-            3.1.1 Technician cards
+            3.1.1 Info cards
+                3.1.1.1 Technician card
+                3.1.1.2 Projects card
         3.2 FAQ page
             3.2.1 Questions
         3.3 Guides page
@@ -118,8 +120,9 @@ body
     }
 }
 
-// 3.1.1 Technician cards
+// 3.1.1 Info cards
 
+//3.1.1.1 Technician cards
 #our-technicians
 {
     max-width: 80rem;
@@ -153,6 +156,49 @@ body
         }
 
         #github-link
+        {
+            text-decoration: underline;
+            color: $light;
+        }
+    }
+}
+
+// 3.1.1.2
+// 3.1.1 Technician cards
+
+#our-projects
+{
+    max-width: 80rem;
+
+    #project-cards
+    {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+
+        .item-flex
+        {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            padding-bottom: 1em;
+            width: $card-width;
+            text-align: center;
+            border-radius: 5%;
+            background: $accent;
+            margin: 2em;
+        }
+
+        .project-img
+        {
+            width: $card-width;
+            aspect-ratio: 1;
+            padding-bottom: 1em;
+            user-select: none;
+            border-radius: 5%;
+        }
+
+        #link
         {
             text-decoration: underline;
             color: $light;
