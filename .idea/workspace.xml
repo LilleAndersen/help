@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b49739a9-b531-424a-b5e1-2a739cba94a2" name="Changes" comment="fikset project cards,">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
-    </list>
-    <list id="d3e2a71d-a112-48a8-af5e-f8e749a3be2e" name="Changes by elias" comment="">
+    <list default="true" id="b49739a9-b531-424a-b5e1-2a739cba94a2" name="Changes" comment="fikset project cards," />
+    <list id="d3e2a71d-a112-48a8-af5e-f8e749a3be2e" name="Changes by elias" comment="Changes by elias">
       <change beforePath="$PROJECT_DIR$/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
     </list>
     <list id="0a0f86c9-bcca-4c85-8769-7ca427dea687" name="Changes by patri" comment="">
@@ -27,19 +21,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/index.html">
-      <ranges>
-        <range start1="27" end1="27" start2="27" end2="30" changelist="b49739a9-b531-424a-b5e1-2a739cba94a2" />
-        <range start1="28" end1="28" start2="31" end2="32" changelist="b49739a9-b531-424a-b5e1-2a739cba94a2" />
-        <range start1="41" end1="42" start2="45" end2="47" changelist="0a0f86c9-bcca-4c85-8769-7ca427dea687" />
-      </ranges>
-    </file>
     <file path="$PROJECT_DIR$/style.scss">
       <ranges>
-        <range start1="12" end1="12" start2="12" end2="13" changelist="b49739a9-b531-424a-b5e1-2a739cba94a2" />
-        <range start1="26" end1="27" start2="27" end2="28" changelist="d3e2a71d-a112-48a8-af5e-f8e749a3be2e" />
-        <range start1="31" end1="31" start2="32" end2="34" changelist="0a0f86c9-bcca-4c85-8769-7ca427dea687" />
-        <range start1="207" end1="207" start2="210" end2="223" changelist="b49739a9-b531-424a-b5e1-2a739cba94a2" />
+        <range start1="27" end1="28" start2="27" end2="28" changelist="d3e2a71d-a112-48a8-af5e-f8e749a3be2e" />
+        <range start1="32" end1="32" start2="32" end2="34" changelist="0a0f86c9-bcca-4c85-8769-7ca427dea687" />
       </ranges>
     </file>
   </component>
@@ -73,7 +58,7 @@
       <workItem from="1634206353681" duration="450000" />
       <workItem from="1634549267032" duration="1140000" />
       <workItem from="1634554361497" duration="868000" />
-      <workItem from="1634733304017" duration="1866000" />
+      <workItem from="1634733304017" duration="1922000" />
     </task>
     <task id="LOCAL-00001" summary="fikset project cards,">
       <created>1633093180682</created>
@@ -82,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633093180682</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fikset project cards,">
+      <created>1634797717961</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1634797717961</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +95,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="fikset project cards," />
-    <option name="LAST_COMMIT_MESSAGE" value="fikset project cards," />
+    <MESSAGE value="Changes by elias" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes by elias" />
   </component>
 </project>
