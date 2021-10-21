@@ -10,6 +10,7 @@
             3.1.1 Info cards
                 3.1.1.1 Technician card
                 3.1.1.2 Projects card
+            3.1.2 Mafia men
         3.2 FAQ page
             3.2.1 Questions
         3.3 Guides page
@@ -204,6 +205,19 @@ body
             color: $light;
         }
     }
+}
+// 3.1.2 Mafia men
+#mafia
+{
+    display:flex;
+    flex-direction: column;
+    margin: 0;
+    max-width: 100%;
+    height: 800px;
+    text-align: center;
+    font-size: xxx-large;
+    background: $themafia no-repeat;
+    background-size: cover;
 }
 
 // 3.2.1 Questions

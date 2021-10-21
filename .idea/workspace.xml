@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b49739a9-b531-424a-b5e1-2a739cba94a2" name="Changes" comment="fikset project cards,">
-      <change afterPath="$PROJECT_DIR$/assets/images/yessnesslogo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/json/projects.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/json/projects.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
+    </list>
+    <list id="d3e2a71d-a112-48a8-af5e-f8e749a3be2e" name="Changes by elias" comment="">
+      <change beforePath="$PROJECT_DIR$/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
+    </list>
+    <list id="0a0f86c9-bcca-4c85-8769-7ca427dea687" name="Changes by patri" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +25,23 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/index.html">
+      <ranges>
+        <range start1="27" end1="27" start2="27" end2="30" changelist="b49739a9-b531-424a-b5e1-2a739cba94a2" />
+        <range start1="28" end1="28" start2="31" end2="32" changelist="b49739a9-b531-424a-b5e1-2a739cba94a2" />
+        <range start1="41" end1="42" start2="45" end2="47" changelist="0a0f86c9-bcca-4c85-8769-7ca427dea687" />
+      </ranges>
+    </file>
+    <file path="$PROJECT_DIR$/style.scss">
+      <ranges>
+        <range start1="12" end1="12" start2="12" end2="13" changelist="b49739a9-b531-424a-b5e1-2a739cba94a2" />
+        <range start1="26" end1="27" start2="27" end2="28" changelist="d3e2a71d-a112-48a8-af5e-f8e749a3be2e" />
+        <range start1="31" end1="31" start2="32" end2="34" changelist="0a0f86c9-bcca-4c85-8769-7ca427dea687" />
+        <range start1="207" end1="207" start2="210" end2="223" changelist="b49739a9-b531-424a-b5e1-2a739cba94a2" />
+      </ranges>
+    </file>
   </component>
   <component name="ProjectId" id="1yu88sUQvCRkP83y5MqS6DEc4Oi" />
   <component name="ProjectLevelVcsManager">
@@ -43,7 +68,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633089959364</updated>
-      <workItem from="1633089962002" duration="2091000" />
+      <workItem from="1633089962002" duration="2410000" />
+      <workItem from="1633597984025" duration="214000" />
+      <workItem from="1634206353681" duration="450000" />
+      <workItem from="1634549267032" duration="1140000" />
+      <workItem from="1634554361497" duration="868000" />
+      <workItem from="1634733304017" duration="1866000" />
     </task>
     <task id="LOCAL-00001" summary="fikset project cards,">
       <created>1633093180682</created>
@@ -68,6 +98,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
