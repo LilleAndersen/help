@@ -15,6 +15,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/style.scss">
+      <ranges>
+        <range start1="27" end1="28" start2="27" end2="28" changelist="d3e2a71d-a112-48a8-af5e-f8e749a3be2e" />
+        <range start1="32" end1="32" start2="32" end2="34" changelist="0a0f86c9-bcca-4c85-8769-7ca427dea687" />
+      </ranges>
+    </file>
+  </component>
   <component name="ProjectId" id="1yu88sUQvCRkP83y5MqS6DEc4Oi" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -52,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633093180682</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fikset project cards,">
+      <created>1634797717961</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1634797717961</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,6 +88,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="fikset project cards," />
-    <option name="LAST_COMMIT_MESSAGE" value="fikset project cards," />
+    <MESSAGE value="Changes by elias" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes by elias" />
   </component>
 </project>
