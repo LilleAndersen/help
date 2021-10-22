@@ -54,5 +54,12 @@
         "purpose" : "Clashing them Royals",
         "image" : "/assets/images/people/henrik.jpg",
         "github": "https://github.com/KristianHelland"
+    },
+    {
+        "id" : 8,
+        "name": "Ask",
+        "purpose" : "Drone boi",
+        "image" : "/assets/images/people/ask.jpg",
+        "github": "//jul-andersen.com/ask2021/"
     }
 ]

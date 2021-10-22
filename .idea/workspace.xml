@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b49739a9-b531-424a-b5e1-2a739cba94a2" name="Changes" comment="Fix project logo missing">
+    <list default="true" id="b49739a9-b531-424a-b5e1-2a739cba94a2" name="Changes" comment="added helland link">
+      <change afterPath="$PROJECT_DIR$/assets/images/people/ask.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/json/technicians.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/json/technicians.json" afterDir="false" />
     </list>
@@ -90,7 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1634902208435</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added helland link">
+      <created>1634902539525</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1634902539525</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added helland link">
+      <created>1634902624984</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1634902624984</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +129,7 @@
     <MESSAGE value="Changes by elias" />
     <MESSAGE value="Added Patrick, Oliver og Ellinor" />
     <MESSAGE value="Fix project logo missing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix project logo missing" />
+    <MESSAGE value="added helland link" />
+    <option name="LAST_COMMIT_MESSAGE" value="added helland link" />
   </component>
 </project>
