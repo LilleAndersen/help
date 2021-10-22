@@ -3,28 +3,49 @@
         "id" : 0,
         "name": "Henrik",
         "purpose" : "Emotional support & vibes",
-        "image" : "/assets/images/henrik.jpg",
+        "image" : "/assets/images/people/henrik.jpg",
         "github": "https://github.com/e-hennep/"
     },
     {
         "id" : 1,
         "name": "Andreas",
         "purpose" : "Content manager",
-        "image" : "/assets/images/andreas.jpg",
+        "image" : "/assets/images/people/andreas.jpg",
         "github": "https://github.com/mrcat77/"
     },
     {
         "id" : 2,
         "name": "Samuel",
         "purpose" : "Lead Programmer",
-        "image" : "/assets/images/samuel.jpg",
+        "image" : "/assets/images/people/samuel.jpg",
         "github": "https://github.com/soni801/"
     },
     {
         "id" : 3,
         "name": "Tobias",
         "purpose" : "Senior Programmer",
-        "image" : "/assets/images/tobias.jpg",
+        "image" : "/assets/images/people/tobias.jpg",
         "github": "https://github.com/lilleandersen/"
+    },
+    {
+        "id" : 4,
+        "name": "Patrick",
+        "purpose" : "PHP",
+        "image" : "/assets/images/people/patrick.png",
+        "github": "https://github.com/PatrickRMC/"
+    },
+    {
+        "id" : 5,
+        "name": "Oliver",
+        "purpose" : "Knalle padden",
+        "image" : "/assets/images/people/oliver.jpg",
+        "github": "https://github.com/olinil"
+    },
+    {
+        "id" : 6,
+        "name": "Ellinor",
+        "purpose" : "Making sure we're gender neutral",
+        "image" : "/assets/images/people/ellinor.jpeg",
+        "github": "https://github.com/JellyElly1"
     }
 ]
