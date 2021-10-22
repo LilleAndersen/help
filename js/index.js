@@ -2,6 +2,7 @@ fetch("/assets/json/technicians.json")
     .then(response=>response.json())
     .then(data=>
     {
+        //TODO Add a thing so that it doesnt say github. Reason being ask doesnt have github
         for(const person of data)
         {
             document.querySelector("#technician-cards").innerHTML+=`
