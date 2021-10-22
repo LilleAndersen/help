@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b49739a9-b531-424a-b5e1-2a739cba94a2" name="Changes" comment="added ask">
-      <change beforePath="$PROJECT_DIR$/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/people/elias.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/people/helland.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/people/pedersen.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_10_2021_13_18__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_10_2021_13_18__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/people/henrik.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/people/henrik.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/json/technicians.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/json/technicians.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <list id="39fea521-0194-4cd6-bb3f-b657be690485" name="Changes by elias" comment="" />
     <option name="SHOW_DIALOG" value="false" />

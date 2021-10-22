@@ -52,7 +52,7 @@
         "id" : 7,
         "name": "Kristian Helland",
         "purpose" : "Clashing them Royals",
-        "image" : "/assets/images/people/henrik.jpg",
+        "image" : "/assets/images/people/helland.png",
         "github": "https://github.com/KristianHelland"
     },
     {
@@ -61,5 +61,19 @@
         "purpose" : "Drone boi",
         "image" : "/assets/images/people/ask.jpg",
         "github": "//jul-andersen.com/ask2021/"
+    },
+    {
+        "id" : 9,
+        "name": "Andreas Pedersen",
+        "purpose" : "Cable man",
+        "image" : "/assets/images/people/pedersen.jpg",
+        "github": "/"
+    },
+    {
+        "id" : 10,
+        "name": "Elias",
+        "purpose" : "Pyton fyr",
+        "image" : "/assets/images/people/elias.jpg",
+        "github": "https://github.com/NonStop-png"
     }
 ]
