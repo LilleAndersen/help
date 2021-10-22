@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b49739a9-b531-424a-b5e1-2a739cba94a2" name="Changes" comment="Added Patrick, Oliver og Ellinor">
+    <list default="true" id="b49739a9-b531-424a-b5e1-2a739cba94a2" name="Changes" comment="Fix project logo missing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/json/projects.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/json/projects.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/json/technicians.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/json/technicians.json" afterDir="false" />
     </list>
     <list id="39fea521-0194-4cd6-bb3f-b657be690485" name="Changes by elias" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634902080717</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fix project logo missing">
+      <created>1634902208435</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1634902208435</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +113,7 @@
     <MESSAGE value="fikset project cards," />
     <MESSAGE value="Changes by elias" />
     <MESSAGE value="Added Patrick, Oliver og Ellinor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Patrick, Oliver og Ellinor" />
+    <MESSAGE value="Fix project logo missing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix project logo missing" />
   </component>
 </project>

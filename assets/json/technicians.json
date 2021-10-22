@@ -47,5 +47,12 @@
         "purpose" : "Making sure we're gender neutral",
         "image" : "/assets/images/people/ellinor.jpeg",
         "github": "https://github.com/JellyElly1"
+    },
+    {
+        "id" : 7,
+        "name": "Kristian Helland",
+        "purpose" : "Clashing them Royals",
+        "image" : "/assets/images/people/henrik.jpg",
+        "github": "https://github.com/KristianHelland"
     }
 ]
