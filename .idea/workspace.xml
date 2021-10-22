@@ -3,12 +3,21 @@
   <component name="ChangeListManager">
     <list default="true" id="b49739a9-b531-424a-b5e1-2a739cba94a2" name="Changes" comment="fikset project cards,">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
     </list>
-    <list id="39fea521-0194-4cd6-bb3f-b657be690485" name="Changes by elias" comment="" />
+    <list id="92705a2c-59a1-49d5-a3cf-41939184fbbc" name="Changes by Heinz" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/sections/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sections/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/faq/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guides/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/guides/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <list id="e6be362d-2ade-4645-8e52-ab59196f51b2" name="Changes by patri" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <list id="b4ab0095-1fe8-4172-aa08-7bd0fe12d5ac" name="Changes by Soni" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +36,16 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/index.html">
+      <ranges>
+        <range start1="1" end1="2" start2="1" end2="1" changelist="b4ab0095-1fe8-4172-aa08-7bd0fe12d5ac" />
+        <range start1="10" end1="18" start2="9" end2="18" changelist="b4ab0095-1fe8-4172-aa08-7bd0fe12d5ac" />
+        <range start1="20" end1="21" start2="20" end2="21" changelist="92705a2c-59a1-49d5-a3cf-41939184fbbc" />
+        <range start1="44" end1="44" start2="44" end2="45" changelist="e6be362d-2ade-4645-8e52-ab59196f51b2" />
+      </ranges>
+    </file>
   </component>
   <component name="ProjectId" id="1yu88sUQvCRkP83y5MqS6DEc4Oi" />
   <component name="ProjectLevelVcsManager">
@@ -58,7 +77,7 @@
       <workItem from="1633089962002" duration="2091000" />
       <workItem from="1634733229426" duration="716000" />
       <workItem from="1634736851042" duration="8000" />
-      <workItem from="1634898608943" duration="1630000" />
+      <workItem from="1634898608943" duration="2597000" />
     </task>
     <task id="LOCAL-00001" summary="fikset project cards,">
       <created>1633093180682</created>
