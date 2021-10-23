@@ -10,7 +10,7 @@
         "id" : 1,
         "name": "Andreas Mollandsøy",
         "purpose" : "Content manager",
-        "image" : "/assets/images/people/andreas.jpg",
+        "image" : "/assets/images/people/mollandsoy.jpg",
         "github": "https://github.com/mrcat77/"
     },
     {
@@ -75,5 +75,12 @@
         "purpose" : "Pyton fyr",
         "image" : "/assets/images/people/elias.jpg",
         "github": "https://github.com/NonStop-png"
+    },
+    {
+        "id" : 11,
+        "name": "Andreas Halle",
+        "purpose" : "Apple juice",
+        "image" : "/assets/images/people/halle.png",
+        "github": "https://github.com/GamingG4mer"
     }
 ]
