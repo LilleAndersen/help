@@ -2,42 +2,42 @@
     {
         "id" : 0,
         "name": "Henrik",
-        "purpose" : "Emotional support & vibes",
+        "purpose" : "The man, the myth, the asshole",
         "image" : "/assets/images/people/henrik.jpg",
         "github": "https://github.com/e-hennep/"
     },
     {
         "id" : 1,
         "name": "Andreas Mollandsøy",
-        "purpose" : "Content manager",
+        "purpose" : "Content",
         "image" : "/assets/images/people/mollandsoy.jpg",
         "github": "https://github.com/mrcat77/"
     },
     {
         "id" : 2,
         "name": "Samuel",
-        "purpose" : "Lead Programmer",
+        "purpose" : "The wildcard",
         "image" : "/assets/images/people/samuel.jpg",
         "github": "https://github.com/soni801/"
     },
     {
         "id" : 3,
         "name": "Tobias",
-        "purpose" : "Senior Programmer",
+        "purpose" : "Average Anime appreciator",
         "image" : "/assets/images/people/tobias.jpg",
         "github": "https://github.com/lilleandersen/"
     },
     {
         "id" : 4,
         "name": "Patrick",
-        "purpose" : "PHP",
+        "purpose" : "The industry baby",
         "image" : "/assets/images/people/patrick.png",
         "github": "https://github.com/PatrickRMC/"
     },
     {
         "id" : 5,
         "name": "Oliver",
-        "purpose" : "Knalle padden",
+        "purpose" : "Padde knaller",
         "image" : "/assets/images/people/oliver.jpg",
         "github": "https://github.com/olinil"
     },
@@ -58,7 +58,7 @@
     {
         "id" : 8,
         "name": "Ask",
-        "purpose" : "Drone boi",
+        "purpose" : "Mr Andersen",
         "image" : "/assets/images/people/ask.jpg",
         "github": "//jul-andersen.com/ask2021/"
     },
@@ -72,14 +72,14 @@
     {
         "id" : 10,
         "name": "Elias",
-        "purpose" : "Pyton fyr",
+        "purpose" : "He is the snail",
         "image" : "/assets/images/people/elias.jpg",
         "github": "https://github.com/NonStop-png"
     },
     {
         "id" : 11,
         "name": "Andreas Halle",
-        "purpose" : "Apple juice",
+        "purpose" : "He will find you",
         "image" : "/assets/images/people/halle.png",
         "github": "https://github.com/GamingG4mer"
     },

@@ -10,7 +10,7 @@
   {
     "title":"This site",
     "desc": "We are making a helpdesk site!",
-    "image":"/assets/favicon/favicon.ico",
+    "image":"/assets/images/help_logo.png",
     "link":"https://github.com/LilleAndersen/help"
   },
 
