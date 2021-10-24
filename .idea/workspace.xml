@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b49739a9-b531-424a-b5e1-2a739cba94a2" name="Changes" comment="">
+    <list default="true" id="b49739a9-b531-424a-b5e1-2a739cba94a2" name="Changes" comment="Add halle pic">
+      <change afterPath="$PROJECT_DIR$/assets/images/people/halle.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/json/projects.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/json/projects.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/json/technicians.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/json/technicians.json" afterDir="false" />
     </list>
     <list id="39fea521-0194-4cd6-bb3f-b657be690485" name="Changes by elias" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +62,10 @@
       <workItem from="1634733229426" duration="716000" />
       <workItem from="1634736851042" duration="8000" />
       <workItem from="1634898608943" duration="1630000" />
+      <workItem from="1634987709852" duration="12000" />
+      <workItem from="1635026563972" duration="158000" />
+      <workItem from="1635071807396" duration="283000" />
+      <workItem from="1635072209017" duration="132000" />
     </task>
     <task id="LOCAL-00001" summary="fikset project cards,">
       <created>1633093180682</created>
@@ -125,7 +130,28 @@
       <option name="project" value="LOCAL" />
       <updated>1634933780632</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="added halle">
+      <created>1635026704942</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1635026704942</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Addet kristoffer og pedersen github">
+      <created>1635072022321</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1635072022321</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add halle pic">
+      <created>1635072087839</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1635072087839</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +178,9 @@
     <MESSAGE value="added helland link" />
     <MESSAGE value="added ask" />
     <MESSAGE value="Addet pedersen, Elias og Helland pic" />
-    <option name="LAST_COMMIT_MESSAGE" value="Addet pedersen, Elias og Helland pic" />
+    <MESSAGE value="added halle" />
+    <MESSAGE value="Addet kristoffer og pedersen github" />
+    <MESSAGE value="Add halle pic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add halle pic" />
   </component>
 </project>
