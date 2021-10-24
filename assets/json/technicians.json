@@ -67,7 +67,7 @@
         "name": "Andreas Pedersen",
         "purpose" : "Cable jesus",
         "image" : "/assets/images/people/pedersen.jpg",
-        "github": "/"
+        "github": "https://github.com/e-andped3"
     },
     {
         "id" : 10,
@@ -82,5 +82,13 @@
         "purpose" : "Apple juice",
         "image" : "/assets/images/people/halle.png",
         "github": "https://github.com/GamingG4mer"
+    },
+    {
+        "id" : 12,
+        "name": "Kristoffer",
+        "purpose" : "You better bee-lieve it",
+        "image" : "/assets/images/people/kristoffer.jpg",
+        "github": "https://github.com/kornydog"
     }
+
 ]
