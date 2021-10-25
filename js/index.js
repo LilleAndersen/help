@@ -9,7 +9,7 @@ fetch("/assets/json/technicians.json")
                 <div class="item-flex">
                     <img alt="imageload failed" class="person-img" src="${person.image}">
                     <b>${person.name}</b>
-                    <i>${person.purpose}</i>
+                    <i style="font-size: smaller;">${person.purpose}</i>
                     <a id="github-link" href="${person.github}" target="_blank">GitHub</a>
                 </div>
             `;
