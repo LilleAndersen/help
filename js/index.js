@@ -9,8 +9,8 @@ fetch("/assets/json/technicians.json")
                 <div class="item-flex">
                     <img alt="imageload failed" class="person-img" src="${person.image}">
                     <i>${person.name}</i>
-                    <a id="github-link" href="${person.github}" target="_blank">GitHub</a>
                     <small>${person.purpose}</small>
+                    <a id="github-link" href="${person.github}" target="_blank">GitHub</a>
                 </div>
             `;
             console.log("Person " + `${person.name}, ${person.purpose}`);
