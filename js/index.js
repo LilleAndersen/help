@@ -8,8 +8,8 @@ fetch("/assets/json/technicians.json")
             document.querySelector("#technician-cards").innerHTML+=`
                 <div class="item-flex">
                     <img alt="imageload failed" class="person-img" src="${person.image}">
-                    <i>${person.name}</i>
-                    <small>${person.purpose}</small>
+                    <b>${person.name}</b>
+                    <i>${person.purpose}</i>
                     <a id="github-link" href="${person.github}" target="_blank">GitHub</a>
                 </div>
             `;
