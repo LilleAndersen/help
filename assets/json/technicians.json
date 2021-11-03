@@ -2,35 +2,35 @@
     {
         "id" : 0,
         "name": "Henrik",
-        "purpose" : "The man, the myth, the asshole",
+        "purpose" : "Mannen, myten, Rævholet",
         "image" : "/assets/images/people/henrik.jpg",
         "github": "https://github.com/e-hennep/"
     },
     {
         "id" : 1,
         "name": "Andreas Mollandsøy",
-        "purpose" : "Content",
+        "purpose" : "Innhold",
         "image" : "/assets/images/people/mollandsoy.jpg",
         "github": "https://github.com/mrcat77/"
     },
     {
         "id" : 2,
         "name": "Samuel",
-        "purpose" : "The wildcard",
+        "purpose" : "Den svært ustabile",
         "image" : "/assets/images/people/samuel.jpg",
         "github": "https://github.com/soni801/"
     },
     {
         "id" : 3,
         "name": "Tobias",
-        "purpose" : "Average Anime appreciator",
+        "purpose" : "Den gjennomsnittlige anime nyter",
         "image" : "/assets/images/people/tobias.jpg",
         "github": "https://github.com/lilleandersen/"
     },
     {
         "id" : 4,
         "name": "Patrick",
-        "purpose" : "The industry baby",
+        "purpose" : "Industriets baby",
         "image" : "/assets/images/people/patrick.png",
         "github": "https://github.com/PatrickRMC/"
     },
@@ -44,28 +44,28 @@
     {
         "id" : 6,
         "name": "Ellinor",
-        "purpose" : "Making sure we're gender neutral",
+        "purpose" : "Sørger for at vi er kjønnsnøytral",
         "image" : "/assets/images/people/ellinor.jpeg",
         "github": "https://github.com/JellyElly1"
     },
     {
         "id" : 7,
         "name": "Kristian Helland",
-        "purpose" : "Clashing them Royals",
+        "purpose" : "Klasher Royaler",
         "image" : "/assets/images/people/helland.png",
         "github": "https://github.com/KristianHelland"
     },
     {
         "id" : 8,
         "name": "Ask",
-        "purpose" : "Mr Andersen",
+        "purpose" : "Herr Andersen",
         "image" : "/assets/images/people/ask.jpg",
         "github": "//jul-andersen.com/ask2021/"
     },
     {
         "id" : 9,
         "name": "Andreas Pedersen",
-        "purpose" : "Cable jesus",
+        "purpose" : "Kabel jesus",
         "image" : "/assets/images/people/pedersen.jpg",
         "github": "https://github.com/e-andped3"
     },
@@ -79,21 +79,21 @@
     {
         "id" : 11,
         "name": "Andreas Halle",
-        "purpose" : "He will find you",
+        "purpose" : "Han finner deg",
         "image" : "/assets/images/people/halle.png",
         "github": "https://github.com/GamingG4mer"
     },
     {
         "id" : 12,
         "name": "Kristoffer",
-        "purpose" : "You better bee-lieve it",
+        "purpose" : "Klegg mannen",
         "image" : "/assets/images/people/kristoffer.jpg",
         "github": "https://github.com/kornydog"
     },
     {
         "id" : 13,
         "name": "Andreas Eidhammer",
-        "purpose" : "This boi is fire",
+        "purpose" : "Eier mange hammere",
         "image" : "/assets/images/people/eidhammer.png",
         "github": "https://github.com/kornydog"
     }
