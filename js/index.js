@@ -10,7 +10,7 @@ fetch("/assets/json/technicians.json")
                     <img alt="imageload failed" class="person-img" src="${person.image}">
                     <b>${person.name}</b>
                     <i style="font-size: smaller;">${person.purpose}</i>
-                    <a id="github-link" href="${person.github}" target="_blank">GitHub</a>
+                    <a id="github-link" href="${person.link}" target="_blank">${person.ltype}</a>
                 </div>
             `;
             console.log("Person " + `${person.name}, ${person.purpose}`);

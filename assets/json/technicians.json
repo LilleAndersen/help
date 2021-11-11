@@ -4,97 +4,111 @@
         "name": "Henrik",
         "purpose" : "Mannen, myten, Rævholet",
         "image" : "/assets/images/people/henrik.jpg",
-        "github": "https://github.com/e-hennep/"
+        "link": "https://github.com/e-hennep/",
+        "ltype": "Github"
     },
     {
         "id" : 1,
         "name": "Andreas Mollandsøy",
         "purpose" : "Innhold",
         "image" : "/assets/images/people/mollandsoy.jpg",
-        "github": "https://github.com/mrcat77/"
+        "link": "https://github.com/mrcat77/",
+        "ltype": "Github"
     },
     {
         "id" : 2,
         "name": "Samuel",
         "purpose" : "Den svært ustabile",
         "image" : "/assets/images/people/samuel.jpg",
-        "github": "https://github.com/soni801/"
+        "link": "https://github.com/soni801/",
+        "ltype": "Github"
     },
     {
         "id" : 3,
         "name": "Tobias",
         "purpose" : "Den gjennomsnittlige anime nyter",
         "image" : "/assets/images/people/tobias.jpg",
-        "github": "https://github.com/lilleandersen/"
+        "link": "https://github.com/lilleandersen/",
+        "ltype": "Github"
     },
     {
         "id" : 4,
         "name": "Patrick",
         "purpose" : "Industriets baby",
         "image" : "/assets/images/people/patrick.png",
-        "github": "https://github.com/PatrickRMC/"
+        "link": "https://github.com/PatrickRMC/",
+        "ltype": "Github"
     },
     {
         "id" : 5,
         "name": "Oliver",
         "purpose" : "Padde knaller",
         "image" : "/assets/images/people/oliver.jpg",
-        "github": "https://github.com/olinil"
+        "link": "https://github.com/olinil",
+        "ltype": "Github"
     },
     {
         "id" : 6,
         "name": "Ellinor",
         "purpose" : "Sørger for at vi er kjønnsnøytral",
         "image" : "/assets/images/people/ellinor.jpeg",
-        "github": "https://github.com/JellyElly1"
+        "link": "https://github.com/JellyElly1",
+        "ltype": "Github"
     },
     {
         "id" : 7,
         "name": "Kristian Helland",
         "purpose" : "Klasher Royaler",
         "image" : "/assets/images/people/helland.png",
-        "github": "https://github.com/KristianHelland"
+        "link": "https://github.com/KristianHelland",
+        "ltype": "Github"
     },
     {
         "id" : 8,
         "name": "Ask",
         "purpose" : "Herr Andersen",
         "image" : "/assets/images/people/ask.jpg",
-        "github": "//jul-andersen.com/ask2021/"
+        "link": "//jul-andersen.com/ask2021/",
+        "ltype": "Nettside"
     },
     {
         "id" : 9,
         "name": "Andreas Pedersen",
         "purpose" : "Kabel jesus",
         "image" : "/assets/images/people/pedersen.jpg",
-        "github": "https://github.com/e-andped3"
+        "link": "https://github.com/e-andped3",
+        "ltype": "Github"
     },
     {
         "id" : 10,
         "name": "Elias",
         "purpose" : "Skratatouille",
         "image" : "/assets/images/people/elias.jpg",
-        "github": "https://github.com/NonStop-png"
+        "link": "https://github.com/NonStop-png",
+        "ltype": "Github"
     },
     {
         "id" : 11,
         "name": "Andreas Halle",
         "purpose" : "Han finner deg",
         "image" : "/assets/images/people/halle.png",
-        "github": "https://github.com/GamingG4mer"
+        "link": "https://github.com/GamingG4mer",
+        "ltype": "Github"
     },
     {
         "id" : 12,
         "name": "Kristoffer",
         "purpose" : "Klegg mannen",
         "image" : "/assets/images/people/kristoffer.jpg",
-        "github": "https://github.com/kornydog"
+        "link": "https://github.com/kornydog",
+        "ltype": "Github"
     },
     {
         "id" : 13,
         "name": "Andreas Eidhammer",
         "purpose" : "Eier mange hammere",
         "image" : "/assets/images/people/eidhammer.png",
-        "github": "https://github.com/kornydog"
+        "link": "https://github.com/kornydog",
+        "ltype": "Github"
     }
 ]
