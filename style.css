@@ -229,24 +229,24 @@ body {
   max-width: 70ch;
   margin: 0 auto;
 }
+#guides #guide-content iframe {
+  min-height: 80%;
+  width: 100%;
+}
+#guides #guide-content div {
+  margin-bottom: 2.5rem;
+}
+#guides #guide-content h3 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+#guides #guide-content a {
+  color: #474973;
+}
 #guides #guide-content h1 {
   font-size: 3rem;
   border-bottom: 2px solid #474973;
   width: max-content;
-}
-
-#guide-content {
-  margin: 25px 0 0 50px;
-}
-#guide-content div {
-  margin-bottom: 2.5rem;
-}
-#guide-content h3 {
-  font-size: 1.5rem;
-  margin-bottom: 0.5rem;
-}
-#guide-content a {
-  color: #474973;
 }
 
 hr {

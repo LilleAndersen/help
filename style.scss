@@ -326,6 +326,28 @@ body
         max-width: 70ch;
         margin: 0 auto;
 
+        iframe
+        {
+            min-height: 80%;
+            width: 100%;
+        }
+
+
+        div
+        {
+            margin-bottom: 2.5rem;
+        }
+
+        h3
+        {
+            font-size: 1.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        a
+        {
+            color: $accent;
+        }
         h1
         {
             font-size: 3rem;
@@ -335,27 +357,7 @@ body
     }
 }
 
-// 3.3.2 Guide content
-#guide-content
-{
-    margin: 25px 0 0 50px;
 
-    div
-    {
-    margin-bottom: 2.5rem;
-    }
-
-    h3
-    {
-    font-size: 1.5rem;
-    margin-bottom: 0.5rem;
-    }
-
-    a
-    {
-        color: $accent;
-    }
-}
 
 //====================================
 // 4 Individual elements
