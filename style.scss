@@ -210,7 +210,8 @@ body
 }
 
 // 3.1.2 Mafia men
-#mafia {
+#mafia
+{
     display: flex;
     flex-direction: column;
     margin: 0;
@@ -220,6 +221,44 @@ body
     font-size: xxx-large;
     background: $themafia no-repeat;
     background-size: cover;
+
+    #flex
+    {
+        padding-top: 25%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
+
+    a
+    {
+        position: relative;
+        text-align: center;
+        justify-content: center;
+        color: $light;
+        text-decoration: none;
+        font-size: 50px;
+        font-weight: bold;
+
+        &::after // Underline styling
+        {
+            position: absolute;
+            content: "";
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            height: 5px;
+            background: $accent;
+            border-radius: 2rem;
+            transform: scaleX(0);
+            transition: 200ms ease;
+        }
+
+        &:hover:not(.no-line)::after
+        {
+            transform: unset; // Set underline visible on hover
+        }
+    }
 }
 
 // 3.2.1 Questions
