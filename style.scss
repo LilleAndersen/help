@@ -222,7 +222,7 @@ body
     background: $themafia no-repeat;
     background-size: cover;
 
-    #flex
+    #flex //Flex for the buttons on the mafia pic
     {
         padding-top: 25%;
         display: flex;
@@ -325,6 +325,7 @@ body
 #guides
 {
     display: flex;
+    gap: 1rem;
 
     // 3.3.1 Side bar
     #side-bar
@@ -332,6 +333,7 @@ body
         display: flex;
         flex-direction: column;
         gap: 1rem;
+        width: 25%;
         background: $accent-dark;
         border-top: 3px solid $accent;
         padding: 2rem;
@@ -362,6 +364,7 @@ body
     // 3.3.2 Guide content
     #guide-content
     {
+        width: 75%;
         max-width: 70ch;
         margin: 0 auto;
 

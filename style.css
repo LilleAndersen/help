@@ -232,11 +232,13 @@ body {
 
 #guides {
   display: flex;
+  gap: 1rem;
 }
 #guides #side-bar {
   display: flex;
   flex-direction: column;
   gap: 1rem;
+  width: 25%;
   background: #161b33;
   border-top: 3px solid #474973;
   padding: 2rem;
@@ -256,6 +258,7 @@ body {
   color: #a69cac;
 }
 #guides #guide-content {
+  width: 75%;
   max-width: 70ch;
   margin: 0 auto;
 }
