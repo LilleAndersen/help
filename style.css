@@ -264,7 +264,7 @@ body {
 }
 #guides #guide-content iframe {
   min-height: 80%;
-  width: 100%;
+  min-width: -webkit-fill-available;
 }
 #guides #guide-content div {
   margin-bottom: 2.5rem;
